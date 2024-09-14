@@ -37,10 +37,10 @@ You can customize the app by modifying the following:
    
 3. **Install Dependencies:**
    ```bash
-   npm install
+   bun install
 4. **Start the Server:**
    ```bash
-   npm start
+   bun start
 5. **Open the Webpage:**
    The web app will be available at http://localhost:3000 in your web browser.
 
