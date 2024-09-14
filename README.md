@@ -22,8 +22,8 @@ The app listens for a POST request on the `/endpoints` route. When a request is 
 You can customize the app by modifying the following:
 
 *   **Countdown duration:** Change the `countdown` variable in `public/script.js` to adjust the duration of the countdown.
-*   **Image filename:** The filename of the saved image is generated based on the current timestamp. You can modify the `filename` variable in `index.js` to use a different naming convention.
-*   **Image directory:** The saved images are stored in the `public/uploads` directory. You can change this directory by modifying the `filePath` variable in `index.js`.
+*   **Image filename:** The filename of the saved image is generated based on the current timestamp. You can modify the `filename` variable in `index.ts` to use a different naming convention.
+*   **Image directory:** The saved images are stored in the `public/uploads` directory. You can change this directory by modifying the `filePath` variable in `index.ts`.
 
 
 ## Getting Started
